@@ -78,7 +78,7 @@ nav ul li a{
 Cabeçalho
 */
 header{
-	background-image: url('../img/fundo.jpg');
+	background-image: url('http://wp.widewallpapers.net/2k/computers/servers/1920x1200/datacenter-servers-1920x1200-025.jpg');
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -292,4 +292,3 @@ Media Queries
     
 
 
-}
